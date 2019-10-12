@@ -4,6 +4,7 @@ the recipe selection wordpress plugin has 3 short codes.
 
 [recipeselection] which selects from recipes by different options like
 'count' => number of recipes you want,
+
 'tag' => seleced by a commen taxonomi,
 'category' => seleced by a commen taxonomi, 
 'total_time' => seleced by a commen taxonomi,
