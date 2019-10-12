@@ -1,4 +1,5 @@
 # selectrecipes
+this plugin works with the cooked plugin
 the recipe selection wordpress plugin has 3 short codes
 [recipeselection] which selects from recipes by different options like
 'count' => number of recipes you want,
